@@ -1,1 +1,2 @@
-console.log("Ola todos vocês")
+let  nome = "Emerson";
+console.log("Olá " + nome);
